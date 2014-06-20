@@ -1,4 +1,4 @@
-varsmall_counties=["Adams",
+var small_counties=["Adams",
 "Columbia",
 "Ferry",
 "Garfield",
@@ -6,7 +6,8 @@ varsmall_counties=["Adams",
 "Pend_Oreille",
 "San Juan",
 "Skamania",
-"Wahkiakum"];varfast_fact_desc=[{
+"Wahkiakum"];
+var fast_fact_desc=[{
 	"id": "trend_0",
 	"title": "Entries per 1,000",
 	"descrption": "The minimum and maximum date for which reliable data are available are indicated on the slide bar. You can adjust the bar to any range; the default is the full date range."
@@ -31,7 +32,8 @@ varsmall_counties=["Adams",
 	"title": "Siblings All or Some Together",
 	"descrption": "The percentage of children who have siblings in out-of-home care who are placed with at least one sibling."
 },
-];varpopulation_desc=[{
+];
+var population_desc=[{
 	"id": "population_0",
 	"title": "Population Under 18",
 	"descrption": "Count of population under 18 (from US Census Bureau)."
