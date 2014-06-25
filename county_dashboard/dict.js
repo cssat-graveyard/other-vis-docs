@@ -9,17 +9,17 @@ var small_counties=["Adams",
 "Wahkiakum"];
 var fast_fact_desc=[{
 	"id": "trend_0",
-	"title": "Entries per 1,000",
+	"title": "Entries per 1,000 Children",
 	"descrption": "The minimum and maximum date for which reliable data are available are indicated on the slide bar. You can adjust the bar to any range; the default is the full date range."
 },
 {
 	"id": "trend_1",
-	"title": "Entries Age 0-4",
+	"title": "Entries Age 0 through 4",
 	"descrption": "The percent of all children entering out-of-home care who are under 5 years old."
 },
 {
 	"id": "trend_2",
-	"title": "Entries with Immediate Dependency",
+	"title": "Entries with Dependencies <45 Days",
 	"descrption": "The percent of children entering out-of-home care with a dependency petition filed within 7 days of their removal."
 },
 {

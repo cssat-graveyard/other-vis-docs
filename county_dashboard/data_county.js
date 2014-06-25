@@ -7,7 +7,7 @@
     {
      "foster_care_trend": {
       "trend_0": {
-       "title": "Entries per 1,000",
+       "title": "Entries per 1,000 Children",
        "valueFormat": "f",
        "min": 0.19,
        "max": 4.48,
@@ -15,7 +15,7 @@
        "maxCurrent": 3.09
       },
       "trend_1": {
-       "title": "Entries Age 0-4",
+       "title": "Entries Age 0 through 4",
        "valueFormat": "p",
        "min": 0.181818181818182,
        "max": 3,
@@ -23,7 +23,7 @@
        "maxCurrent": 2
       },
       "trend_2": {
-       "title": "Entries with Immediate Dependency",
+       "title": "Entries with Dependencies <45 Days",
        "valueFormat": "p",
        "min": 0.00338983050847458,
        "max": 0.8,
